@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gondolaquest</title>
+		<link>https://spappz.github.io/gondolaquest/</link>
+		<atom:link href="https://spappz.github.io/gondolaquest/feed.rss" rel="self" type="application/rss+xml"/>
+		<description>Fresh new Gondolaquest pages!</description>
+		<pubDate># SCRIPT IN #</pubDate>
+		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+		<ttl>10080</ttl>
+		<item>
+			<title>Chapter 2, page 30</title>
+			<link>https://gondolaquest.com/chapter_2/page_30/page.html</link>
+			<guid isPermaLink="true">chapter_2/page_30</guid>
+			<description>Update pages 30 to 32</description>
+			<pubDate>Sun, 03 Mar 2024 09:42:00 GMT</pubDate>
+			<source url="https://www.gondolaquest.com/rss.xml">Gondolaquest</source>
+		</item>
+		<item>
+			<title>Chapter 2, page 31</title>
+			<link>https://gondolaquest.com/chapter_2/page_30/page.html</link>
+			<guid isPermaLink="true">chapter_2/page_30</guid>
+			<description>Update pages 30 to 32</description>
+			<pubDate>Sun, 03 Mar 2024 09:42:00 GMT</pubDate>
+			<source url="https://www.gondolaquest.com/rss.xml">Gondolaquest</source>
+		</item>
+	</channel>
+</rss>
